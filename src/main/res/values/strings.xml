@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TP02_Android</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="listeDevises">
+        <item></item>
+        <item>Livre</item>
+        <item>Francs CFA</item>
+        <item>Dirham</item>
+        <item>Dollars US</item>
+        <item>Dollars US</item>
+        <item>Euro</item>
+        <item>Yen</item>
+    </string-array>
+</resources>
